@@ -8,7 +8,7 @@ const Home = ()  => {
         <section>
             <h1>Home</h1>
             <TextField
-            placeholder = "Enter"
+            placeholder = "Enter something"
             value={value}
             className="new"
             onChange={handleChange}
